@@ -40,7 +40,7 @@ If you want to clone using git instead of pip, here's how you do it.
 
 You can use this docker image too, in case you don't have pip installed locally or don't want to install system-wide.
 
-* `docker run --rm aminvakil/slowloris example.com`
+* `docker run --rm quay.io/aminvakil/slowloris example.com`
 
 ### SOCKS5 proxy support
 
